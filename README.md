@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nishant Sharma</h1>
 <h3 align="center">QUICK LEARNER || ANALYTIC || GROWTH MINDSET || TEAM PLAYER</h3>
 
+![eat-sleep-code-repeat-black-background-programmer-quotes-3840x2160-5947](https://github.com/Nishu2903/Nishu2903/assets/117971452/28469759-a2cf-42f8-8b1c-225e55bfe820)
 
-<div align="center"> <img src="[![image](https://github.com/Nishu2903/Nishu2903/assets/117971452/af0a6fad-a219-4a5f-ad6d-318dd1ade853)
-)
-"> </div>
+<div align="center"> <img src=""> </div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
