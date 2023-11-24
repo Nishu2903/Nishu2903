@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Sharma</h1>
 <h3 align="center">QUICK LEARNER || ANALYTIC || GROWTH MINDSET || TEAM PLAYER</h3>
 
-![eat-sleep-code-repeat-black-background-programmer-quotes-3840x2160-5947](https://github.com/Nishu2903/Nishu2903/assets/117971452/28469759-a2cf-42f8-8b1c-225e55bfe820)
-![Wallpaper-Black-And-White-Dark-Wtf-Geek-Funny-Evolution-1928](https://github.com/Nishu2903/Nishu2903/assets/117971452/57d90bc3-89f2-441c-a0c1-233e4971b187)
-![Wallpaper-Pcbots-Geek-Code-No-Talk-Programming-1920x1067-1](https://github.com/Nishu2903/Nishu2903/assets/117971452/864341be-3e67-42c5-98c9-f7f8fbad426f)
-![Wallpaper-Theres-No-Place-Like-Text-Geek-Computer-Netw70](https://github.com/Nishu2903/Nishu2903/assets/117971452/27658196-05b4-45b6-8b3b-041cc572ab99)
-
+![copy1](https://github.com/Nishu2903/Nishu2903/assets/117971452/997772c9-7b2f-4292-9542-69fc29fb37f2)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
