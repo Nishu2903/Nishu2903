@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Sharma</h1>
 <h3 align="center">QUICK LEARNER || ANALYTIC || GROWTH MINDSET || TEAM PLAYER</h3>
-<div align="center"> <img src="[https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png](https://media.licdn.com/dms/image/D4D16AQEAn1kNGt8_2w/profile-displaybackgroundimage-shrink_350_1400/0/1681574521986?e=1706140800&v=beta&t=uRGIVGnA2c9a5OSeEkhIrP-mjDaAZk9tSsq-_eoS7oE)"> </div>
+<div align="center"> <img src="https://drive.google.com/file/d/1n9PqOO3DDeO5IXlJv3Ds4xBFnEL0jVvO/view?usp=sharing"> </div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
