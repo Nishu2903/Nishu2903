@@ -21,9 +21,7 @@
 
 - 🔭 I’m currently student at **BML Munjal University**
 
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://nishu-portfolio.000webhostapp.com/](https://nishu-portfolio.000webhostapp.com/)
+- 🌱 I’m **Service Now CAD and CSA Certified.**
 
 - 📫 How to reach me **sharmanishant2903@gmail.com**
 
