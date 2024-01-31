@@ -25,8 +25,7 @@
 
 - 📫 How to reach me **sharmanishant2903@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a0cSruXJEEQHf53LHzgkhYoT1qc_yFTw/view?usp=sharing](https://drive.google.com/file/d/1a0cSruXJEEQHf53LHzgkhYoT1qc_yFTw/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1O8uXabfdfhexY5MI960Ljga2nCaOG1mp/view?usp=sharing]
 - ⚡ Fun fact **I am Nishu without u**
 
 &nbsp;
